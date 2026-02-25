@@ -1,0 +1,6 @@
+scikit-learn
+pandas
+mlflow
+pytest
+black
+ruff
