@@ -1,5 +1,6 @@
-scikit-learn
 pandas
+scikit-learn
+pyyaml
 mlflow
 pytest
 black
